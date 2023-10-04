@@ -7,4 +7,4 @@ There is another population of cleaners on the field, competing for cleaning cre
 The AI finds behaviours which lead to the most cleanig done. Each cleaner acts as an independent agent and its behaviour is learned through the process of simulated fitness selection and evolution
 
 
-To play the cleaning game run the cleaners.py code. Make sure in the settings.py file one of the agents is set to my_agent.py. 
+To play the cleaning game run the cleaners.py code. Make sure in the settings.py file that at least one of the agents is set to my_agent.py. 
